@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Inference | Maria L. Daza</title>
+    <link>http://localhost:1313/tag/bayesian-inference/</link>
+      <atom:link href="http://localhost:1313/tag/bayesian-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian Inference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Bayesian Inference</title>
+      <link>http://localhost:1313/tag/bayesian-inference/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian sequential data assimilation for COVID-19 forecasting</title>
+      <link>http://localhost:1313/publication/daza-2022-bayesian/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/daza-2022-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error Control of the Numerical Posterior with Bayes Factors in Bayesian Uncertainty Quantification</title>
+      <link>http://localhost:1313/publication/10-1214-20-ba-1255/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/10-1214-20-ba-1255/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

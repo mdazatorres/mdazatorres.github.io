@@ -82,6 +82,14 @@
     </item>
     
     <item>
+      <title>Wastewater Disease Surveillance</title>
+      <link>https://example.com/project/example/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian sequential approach to monitor COVID-19 variants through positivity rate from wastewater</title>
       <link>https://example.com/publication/daza-2022-pr/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -339,14 +347,6 @@ $$&lt;/p&gt;
       <guid>https://example.com/publication/daza-2017-solution/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Wastewater Disease Surveillance</title>
-      <link>https://example.com/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
-      <description></description>
     </item>
     
     <item>

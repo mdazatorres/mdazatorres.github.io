@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Assimilation | Maria L. Daza</title>
-    <link>http://localhost:50453/tag/data-assimilation/</link>
-      <atom:link href="http://localhost:50453/tag/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tag/data-assimilation/</link>
+      <atom:link href="https://example.com/tag/data-assimilation/index.xml" rel="self" type="application/rss+xml" />
     <description>Data Assimilation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:50453/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Data Assimilation</title>
-      <link>http://localhost:50453/tag/data-assimilation/</link>
+      <link>https://example.com/tag/data-assimilation/</link>
     </image>
     
     <item>
       <title>Bayesian sequential data assimilation for COVID-19 forecasting</title>
-      <link>http://localhost:50453/publication/daza-2022-bayesian/</link>
+      <link>https://example.com/publication/daza-2022-bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2022-bayesian/</guid>
+      <guid>https://example.com/publication/daza-2022-bayesian/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

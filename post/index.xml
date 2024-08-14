@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Maria L. Daza</title>
-    <link>http://localhost:50453/post/</link>
-      <atom:link href="http://localhost:50453/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:50453/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>http://localhost:50453/post/</link>
+      <link>https://example.com/post/</link>
     </image>
     
     <item>
       <title>Kalman Filter definition, formulation, and application to wastewater SARS-CoV-2 concentration data</title>
-      <link>http://localhost:50453/post/blog-with-jupyter/</link>
+      <link>https://example.com/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/post/blog-with-jupyter/</guid>
+      <guid>https://example.com/post/blog-with-jupyter/</guid>
       <description>&lt;p&gt;The Kalman Filter is an essential estimation algorithm used across various fields to estimate the hidden states of systems with noisy observations. It operates in two steps: prediction and correction, combining past estimates and current observations to generate accurate future state predictions. This post details the mathematical formulation of the Kalman Filter, its two-step process, and a practical implementation example using SARS-CoV-2 RNA concentrations in wastewater from the City of Davis. By incorporating variables such as BCoV Recovery Percentage and precipitation data, the filter provides robust estimates that account for environmental influences on wastewater measurements. The full Rpub document can be accessed &lt;a href=&#34;https://rpubs.com/mdazatorres/1175065&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

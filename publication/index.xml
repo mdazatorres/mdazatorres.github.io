@@ -2,183 +2,183 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Maria L. Daza</title>
-    <link>http://localhost:50453/publication/</link>
-      <atom:link href="http://localhost:50453/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:50453/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:50453/publication/</link>
+      <link>https://example.com/publication/</link>
     </image>
     
     <item>
       <title>A mixed-effects model to predict COVID-19 hospitalizations using wastewater surveillance</title>
-      <link>http://localhost:50453/publication/daza-2024-mixed/</link>
+      <link>https://example.com/publication/daza-2024-mixed/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2024-mixed/</guid>
+      <guid>https://example.com/publication/daza-2024-mixed/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Assessing SARS-CoV-2 Testing Adherence in a University Town: Recurrent Event Modeling Analysis</title>
-      <link>http://localhost:50453/publication/garcia-2024-assessing/</link>
+      <link>https://example.com/publication/garcia-2024-assessing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/garcia-2024-assessing/</guid>
+      <guid>https://example.com/publication/garcia-2024-assessing/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal Spatial Allocation of Wastewater Treatment Plants: A Multi-Criteria Approach</title>
-      <link>http://localhost:50453/publication/daza-2023-opt/</link>
+      <link>https://example.com/publication/daza-2023-opt/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2023-opt/</guid>
+      <guid>https://example.com/publication/daza-2023-opt/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wildfires and Social Media Discourse: Exploring Mental Health and Emotional Well-Being Through Twitter</title>
-      <link>http://localhost:50453/publication/garcia-2024-wildfires/</link>
+      <link>https://example.com/publication/garcia-2024-wildfires/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/garcia-2024-wildfires/</guid>
+      <guid>https://example.com/publication/garcia-2024-wildfires/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian sequential approach to monitor COVID-19 variants through positivity rate from wastewater</title>
-      <link>http://localhost:50453/publication/daza-2022-pr/</link>
+      <link>https://example.com/publication/daza-2022-pr/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2022-pr/</guid>
+      <guid>https://example.com/publication/daza-2022-pr/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bregman dynamics, contact transformations and convex optimization</title>
-      <link>http://localhost:50453/publication/bravetti-2019-optimization/</link>
+      <link>https://example.com/publication/bravetti-2019-optimization/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/bravetti-2019-optimization/</guid>
+      <guid>https://example.com/publication/bravetti-2019-optimization/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach</title>
-      <link>http://localhost:50453/publication/garcia-2023-common/</link>
+      <link>https://example.com/publication/garcia-2023-common/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/garcia-2023-common/</guid>
+      <guid>https://example.com/publication/garcia-2023-common/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data-driven estimation of the instantaneous reproduction number and growth rates for the 2022 monkeypox outbreak in Europe</title>
-      <link>http://localhost:50453/publication/saldana-2023-data/</link>
+      <link>https://example.com/publication/saldana-2023-data/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/saldana-2023-data/</guid>
+      <guid>https://example.com/publication/saldana-2023-data/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Expansion of wastewater-based disease surveillance to improve health equity in California’s Central Valley: sequential shifts in case to wastewater and hospitalization to wastewater ratios</title>
-      <link>http://localhost:50453/publication/kadonsky-2023-expansion/</link>
+      <link>https://example.com/publication/kadonsky-2023-expansion/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/kadonsky-2023-expansion/</guid>
+      <guid>https://example.com/publication/kadonsky-2023-expansion/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mathematical Modeling and Wastewater-Based Epidemiology: Public Health Applications</title>
-      <link>http://localhost:50453/publication/montesinos-2023-mathematical/</link>
+      <link>https://example.com/publication/montesinos-2023-mathematical/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/montesinos-2023-mathematical/</guid>
+      <guid>https://example.com/publication/montesinos-2023-mathematical/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian sequential data assimilation for COVID-19 forecasting</title>
-      <link>http://localhost:50453/publication/daza-2022-bayesian/</link>
+      <link>https://example.com/publication/daza-2022-bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2022-bayesian/</guid>
+      <guid>https://example.com/publication/daza-2022-bayesian/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comparing gradient boosting machine and Bayesian threshold BLUP for genome-based prediction of categorical traits in wheat breeding</title>
-      <link>http://localhost:50453/publication/montesinos-2022-comparing/</link>
+      <link>https://example.com/publication/montesinos-2022-comparing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/montesinos-2022-comparing/</guid>
+      <guid>https://example.com/publication/montesinos-2022-comparing/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Error Control of the Numerical Posterior with Bayes Factors in Bayesian Uncertainty Quantification</title>
-      <link>http://localhost:50453/publication/10-1214-20-ba-1255/</link>
+      <link>https://example.com/publication/10-1214-20-ba-1255/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/10-1214-20-ba-1255/</guid>
+      <guid>https://example.com/publication/10-1214-20-ba-1255/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Model training periods impact estimation of COVID-19 incidence from wastewater viral loads</title>
-      <link>http://localhost:50453/publication/daza-2022-model/</link>
+      <link>https://example.com/publication/daza-2022-model/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2022-model/</guid>
+      <guid>https://example.com/publication/daza-2022-model/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The impact of COVID-19 vaccination on California’s return to normalcy</title>
-      <link>http://localhost:50453/publication/daza-2022-impact/</link>
+      <link>https://example.com/publication/daza-2022-impact/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2022-impact/</guid>
+      <guid>https://example.com/publication/daza-2022-impact/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Error control in the numerical posterior distribution in the Bayesian UQ analysis of a semilinear evolution PDE</title>
-      <link>http://localhost:50453/publication/daza-torres-2021/</link>
+      <link>https://example.com/publication/daza-torres-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-torres-2021/</guid>
+      <guid>https://example.com/publication/daza-torres-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Natural frequency of a heavy flexible plate: power law evolution as a function of length</title>
-      <link>http://localhost:50453/publication/iniguez-2021-natural/</link>
+      <link>https://example.com/publication/iniguez-2021-natural/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/iniguez-2021-natural/</guid>
+      <guid>https://example.com/publication/iniguez-2021-natural/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Role of SARS-CoV-2 Testing on Hospitalizations in California</title>
-      <link>http://localhost:50453/publication/montesinos/</link>
+      <link>https://example.com/publication/montesinos/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/montesinos/</guid>
+      <guid>https://example.com/publication/montesinos/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Solution of the inverse scattering problem from inhomogeneous media using affine invariant sampling</title>
-      <link>http://localhost:50453/publication/daza-2017-solution/</link>
+      <link>https://example.com/publication/daza-2017-solution/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:50453/publication/daza-2017-solution/</guid>
+      <guid>https://example.com/publication/daza-2017-solution/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

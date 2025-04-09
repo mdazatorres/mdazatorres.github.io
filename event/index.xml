@@ -2,37 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent and Upcoming Talks &amp; Posters | Maria L. Daza</title>
-    <link>https://example.com/event/</link>
-      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent and Upcoming Talks &amp; Posters</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Mar 2025 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent and Upcoming Talks &amp; Posters</title>
-      <link>https://example.com/event/</link>
+      <link>http://localhost:1313/event/</link>
     </image>
     
     <item>
+      <title>(Poster) Optimizing Spatial Distribution of Wastewater-Based Disease Surveillance to Advance Health Equity</title>
+      <link>http://localhost:1313/talk/poster-optimizing-spatial-distribution-of-wastewater-based-disease-surveillance-to-advance-health-equity/</link>
+      <pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/poster-optimizing-spatial-distribution-of-wastewater-based-disease-surveillance-to-advance-health-equity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(Poster) Bayesian sequential approach to monitor COVID-19 variants through test positivity rate from wastewater</title>
-      <link>https://example.com/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</link>
+      <link>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</link>
+      <pubDate>Thu, 06 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Poster) Bayesian sequential approach to monitor COVID-19 variants through test positivity rate from wastewater</title>
+      <link>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</link>
       <pubDate>Mon, 15 Jul 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</guid>
+      <guid>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Poster) Bayesian sequential approach to forecast COVID-19 test positivity rate using wastewater monitoring</title>
-      <link>https://example.com/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</link>
+      <link>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</link>
       <pubDate>Mon, 24 Jun 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</guid>
+      <guid>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Talk) Novel modeling tools. Estimating effective reproductive number and forecasting hospitalizations.</title>
-      <link>https://example.com/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</link>
+      <link>http://localhost:1313/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</link>
       <pubDate>Wed, 31 Jan 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</guid>
+      <guid>http://localhost:1313/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</guid>
       <description></description>
     </item>
     

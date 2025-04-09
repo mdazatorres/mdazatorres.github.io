@@ -2,224 +2,240 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maria L. Daza</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria L. Daza</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Maria L. Daza</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
+      <title>(Poster) Optimizing Spatial Distribution of Wastewater-Based Disease Surveillance to Advance Health Equity</title>
+      <link>http://localhost:1313/talk/poster-optimizing-spatial-distribution-of-wastewater-based-disease-surveillance-to-advance-health-equity/</link>
+      <pubDate>Mon, 24 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/poster-optimizing-spatial-distribution-of-wastewater-based-disease-surveillance-to-advance-health-equity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>(Poster) Bayesian sequential approach to monitor COVID-19 variants through test positivity rate from wastewater</title>
-      <link>https://example.com/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</link>
+      <link>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</link>
+      <pubDate>Thu, 06 Mar 2025 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Poster) Bayesian sequential approach to monitor COVID-19 variants through test positivity rate from wastewater</title>
+      <link>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</link>
       <pubDate>Mon, 15 Jul 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</guid>
+      <guid>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-monitor-covid-19-variants-through-test-positivity-rate-from-wastewater/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Poster) Bayesian sequential approach to forecast COVID-19 test positivity rate using wastewater monitoring</title>
-      <link>https://example.com/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</link>
+      <link>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</link>
       <pubDate>Mon, 24 Jun 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</guid>
+      <guid>http://localhost:1313/talk/poster-bayesian-sequential-approach-to-forecast-covid-19-test-positivity-rate-using-wastewater-monitoring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Talk) Novel modeling tools. Estimating effective reproductive number and forecasting hospitalizations.</title>
-      <link>https://example.com/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</link>
+      <link>http://localhost:1313/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</link>
       <pubDate>Wed, 31 Jan 2024 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</guid>
+      <guid>http://localhost:1313/talk/talk-novel-modeling-tools.-estimating-effective-reproductive-number-and-forecasting-hospitalizations./</guid>
       <description></description>
     </item>
     
     <item>
       <title>A mixed-effects model to predict COVID-19 hospitalizations using wastewater surveillance</title>
-      <link>https://example.com/publication/daza-2024-mixed/</link>
+      <link>http://localhost:1313/publication/daza-2024-mixed/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/daza-2024-mixed/</guid>
+      <guid>http://localhost:1313/publication/daza-2024-mixed/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Assessing SARS-CoV-2 Testing Adherence in a University Town: Recurrent Event Modeling Analysis</title>
-      <link>https://example.com/publication/garcia-2024-assessing/</link>
+      <link>http://localhost:1313/publication/garcia-2024-assessing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/garcia-2024-assessing/</guid>
+      <guid>http://localhost:1313/publication/garcia-2024-assessing/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimizing spatial distribution of wastewater-based epidemiology to advance health equity</title>
-      <link>https://example.com/publication/dazatorres-2024100804/</link>
+      <link>http://localhost:1313/publication/dazatorres-2024100804/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dazatorres-2024100804/</guid>
+      <guid>http://localhost:1313/publication/dazatorres-2024100804/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wildfires and Social Media Discourse: Exploring Mental Health and Emotional Well-Being Through Twitter</title>
-      <link>https://example.com/publication/garcia-2024-wildfires/</link>
+      <link>http://localhost:1313/publication/garcia-2024-wildfires/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/garcia-2024-wildfires/</guid>
+      <guid>http://localhost:1313/publication/garcia-2024-wildfires/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kalman Filter definition, formulation, and application to wastewater SARS-CoV-2 concentration data</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;p&gt;The Kalman Filter is an essential estimation algorithm used across various fields to estimate the hidden states of systems with noisy observations. It operates in two steps: prediction and correction, combining past estimates and current observations to generate accurate future state predictions. This post details the mathematical formulation of the Kalman Filter, its two-step process, and a practical implementation example using SARS-CoV-2 RNA concentrations in wastewater from the City of Davis. By incorporating variables such as BCoV Recovery Percentage and precipitation data, the filter provides robust estimates that account for environmental influences on wastewater measurements. The full Rpub document can be accessed &lt;a href=&#34;https://rpubs.com/mdazatorres/1175065&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Wastewater Disease Surveillance</title>
-      <link>https://example.com/project/example/</link>
+      <link>http://localhost:1313/project/example/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>http://localhost:1313/project/example/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian sequential approach to monitor COVID-19 variants through positivity rate from wastewater</title>
-      <link>https://example.com/publication/daza-2022-pr/</link>
+      <link>http://localhost:1313/publication/daza-2022-pr/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/daza-2022-pr/</guid>
+      <guid>http://localhost:1313/publication/daza-2022-pr/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bregman dynamics, contact transformations and convex optimization</title>
-      <link>https://example.com/publication/bravetti-2019-optimization/</link>
+      <link>http://localhost:1313/publication/bravetti-2019-optimization/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bravetti-2019-optimization/</guid>
+      <guid>http://localhost:1313/publication/bravetti-2019-optimization/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Common patterns between dengue cases, climate, and local environmental variables in Costa Rica: A wavelet approach</title>
-      <link>https://example.com/publication/garcia-2023-common/</link>
+      <link>http://localhost:1313/publication/garcia-2023-common/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/garcia-2023-common/</guid>
+      <guid>http://localhost:1313/publication/garcia-2023-common/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Data-driven estimation of the instantaneous reproduction number and growth rates for the 2022 monkeypox outbreak in Europe</title>
-      <link>https://example.com/publication/saldana-2023-data/</link>
+      <link>http://localhost:1313/publication/saldana-2023-data/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/saldana-2023-data/</guid>
+      <guid>http://localhost:1313/publication/saldana-2023-data/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Expansion of wastewater-based disease surveillance to improve health equity in California’s Central Valley: sequential shifts in case to wastewater and hospitalization to wastewater ratios</title>
-      <link>https://example.com/publication/kadonsky-2023-expansion/</link>
+      <link>http://localhost:1313/publication/kadonsky-2023-expansion/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/kadonsky-2023-expansion/</guid>
+      <guid>http://localhost:1313/publication/kadonsky-2023-expansion/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mathematical Modeling and Wastewater-Based Epidemiology: Public Health Applications</title>
-      <link>https://example.com/publication/montesinos-2023-mathematical/</link>
+      <link>http://localhost:1313/publication/montesinos-2023-mathematical/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/montesinos-2023-mathematical/</guid>
+      <guid>http://localhost:1313/publication/montesinos-2023-mathematical/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Bayesian sequential data assimilation for COVID-19 forecasting</title>
-      <link>https://example.com/publication/daza-2022-bayesian/</link>
+      <link>http://localhost:1313/publication/daza-2022-bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/daza-2022-bayesian/</guid>
+      <guid>http://localhost:1313/publication/daza-2022-bayesian/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Comparing gradient boosting machine and Bayesian threshold BLUP for genome-based prediction of categorical traits in wheat breeding</title>
-      <link>https://example.com/publication/montesinos-2022-comparing/</link>
+      <link>http://localhost:1313/publication/montesinos-2022-comparing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/montesinos-2022-comparing/</guid>
+      <guid>http://localhost:1313/publication/montesinos-2022-comparing/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Error Control of the Numerical Posterior with Bayes Factors in Bayesian Uncertainty Quantification</title>
-      <link>https://example.com/publication/10-1214-20-ba-1255/</link>
+      <link>http://localhost:1313/publication/10-1214-20-ba-1255/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10-1214-20-ba-1255/</guid>
+      <guid>http://localhost:1313/publication/10-1214-20-ba-1255/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Model training periods impact estimation of COVID-19 incidence from wastewater viral loads</title>
-      <link>https://example.com/publication/daza-2022-model/</link>
+      <link>http://localhost:1313/publication/daza-2022-model/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/daza-2022-model/</guid>
+      <guid>http://localhost:1313/publication/daza-2022-model/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The impact of COVID-19 vaccination on California’s return to normalcy</title>
-      <link>https://example.com/publication/daza-2022-impact/</link>
+      <link>http://localhost:1313/publication/daza-2022-impact/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/daza-2022-impact/</guid>
+      <guid>http://localhost:1313/publication/daza-2022-impact/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Error control in the numerical posterior distribution in the Bayesian UQ analysis of a semilinear evolution PDE</title>
-      <link>https://example.com/publication/daza-torres-2021/</link>
+      <link>http://localhost:1313/publication/daza-torres-2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/daza-torres-2021/</guid>
+      <guid>http://localhost:1313/publication/daza-torres-2021/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Natural frequency of a heavy flexible plate: power law evolution as a function of length</title>
-      <link>https://example.com/publication/iniguez-2021-natural/</link>
+      <link>http://localhost:1313/publication/iniguez-2021-natural/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/iniguez-2021-natural/</guid>
+      <guid>http://localhost:1313/publication/iniguez-2021-natural/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Role of SARS-CoV-2 Testing on Hospitalizations in California</title>
-      <link>https://example.com/publication/montesinos/</link>
+      <link>http://localhost:1313/publication/montesinos/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/montesinos/</guid>
+      <guid>http://localhost:1313/publication/montesinos/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>http://localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>http://localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-hugo-blox-builder&#34;&gt;Create slides in Markdown with Hugo Blox Builder&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://hugoblox.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; | &lt;a href=&#34;https://docs.hugoblox.com/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -342,18 +358,18 @@ $$&lt;/p&gt;
     
     <item>
       <title>Solution of the inverse scattering problem from inhomogeneous media using affine invariant sampling</title>
-      <link>https://example.com/publication/daza-2017-solution/</link>
+      <link>http://localhost:1313/publication/daza-2017-solution/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/daza-2017-solution/</guid>
+      <guid>http://localhost:1313/publication/daza-2017-solution/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/project/external-project/</link>
+      <link>http://localhost:1313/project/external-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/external-project/</guid>
+      <guid>http://localhost:1313/project/external-project/</guid>
       <description></description>
     </item>
     

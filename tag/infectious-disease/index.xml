@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infectious Disease | Maria L. Daza</title>
-    <link>https://example.com/tag/infectious-disease/</link>
-      <atom:link href="https://example.com/tag/infectious-disease/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/infectious-disease/</link>
+      <atom:link href="http://localhost:1313/tag/infectious-disease/index.xml" rel="self" type="application/rss+xml" />
     <description>Infectious Disease</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Infectious Disease</title>
-      <link>https://example.com/tag/infectious-disease/</link>
+      <link>http://localhost:1313/tag/infectious-disease/</link>
     </image>
     
     <item>
       <title>Optimizing spatial distribution of wastewater-based epidemiology to advance health equity</title>
-      <link>https://example.com/publication/dazatorres-2024100804/</link>
+      <link>http://localhost:1313/publication/dazatorres-2024100804/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dazatorres-2024100804/</guid>
+      <guid>http://localhost:1313/publication/dazatorres-2024100804/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>

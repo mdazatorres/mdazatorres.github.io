@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work-With-Mes | Maria L. Daza</title>
+    <link>http://localhost:59491/work-with-me/</link>
+      <atom:link href="http://localhost:59491/work-with-me/index.xml" rel="self" type="application/rss+xml" />
+    <description>Work-With-Mes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:59491/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Work-With-Mes</title>
+      <link>http://localhost:59491/work-with-me/</link>
+    </image>
+    
+    <item>
+      <title>Work With Me</title>
+      <link>http://localhost:59491/work-with-me/work-with-me/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:59491/work-with-me/work-with-me/</guid>
+      <description>&lt;p&gt;I welcome motivated and curious individuals interested in interdisciplinary research at the intersection of mathematical modeling, infectious disease dynamics, and Bayesian inference.&lt;/p&gt;
+&lt;p&gt;My work is driven by applied questions and real-world data, with the goal of using mathematical and statistical tools to generate meaningful insights and support decision-making.&lt;/p&gt;
+&lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;
+&lt;p&gt;My research interests include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Infectious disease modeling&lt;/li&gt;
+&lt;li&gt;Wastewater-based epidemiology&lt;/li&gt;
+&lt;li&gt;Bayesian inference&lt;/li&gt;
+&lt;li&gt;Uncertainty quantification&lt;/li&gt;
+&lt;li&gt;Inverse problems for partial differential equations&lt;/li&gt;
+&lt;li&gt;Statistical modeling for genomic data&lt;/li&gt;
+&lt;li&gt;Wind energy systems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;opportunities&#34;&gt;Opportunities&lt;/h2&gt;
+&lt;p&gt;I am open to collaborating with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Undergraduate students&lt;/li&gt;
+&lt;li&gt;Graduate students (MS/PhD)&lt;/li&gt;
+&lt;li&gt;Postdoctoral researchers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;who-should-reach-out&#34;&gt;Who Should Reach Out&lt;/h2&gt;
+&lt;p&gt;I encourage students and researchers with backgrounds in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathematics or Applied Mathematics&lt;/li&gt;
+&lt;li&gt;Statistics or Data Science&lt;/li&gt;
+&lt;li&gt;Epidemiology&lt;/li&gt;
+&lt;li&gt;Computational Biology&lt;/li&gt;
+&lt;li&gt;Quantitative Biology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;how-to-get-in-touch&#34;&gt;How to Get in Touch&lt;/h2&gt;
+&lt;p&gt;I am especially interested in working with individuals who are proactive, curious, and excited about interdisciplinary collaboration.&lt;/p&gt;
+&lt;p&gt;If you are interested in working with me, please email me with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A brief introduction&lt;/li&gt;
+&lt;li&gt;Your CV&lt;/li&gt;
+&lt;li&gt;A short description of your interests&lt;/li&gt;
+&lt;li&gt;Optional: project ideas or research questions you would like to explore&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;funding-opportunities&#34;&gt;Funding Opportunities&lt;/h2&gt;
+&lt;p&gt;At this time, I am not able to directly provide funding. I strongly encourage prospective students and researchers to apply for external fellowships and scholarships that can support their research and academic development.&lt;/p&gt;
+&lt;p&gt;Useful programs and resources include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Graduate studies in mathematics at Instituto de Matemáticas UNAM: &lt;a href=&#34;https://matematicas.posgrado.unam.mx/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://matematicas.posgrado.unam.mx/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Postdoctoral opportunities through DGAPA UNAM: &lt;a href=&#34;https://dgapa.unam.mx/index.php/formacion-academica/posdoc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dgapa.unam.mx/index.php/formacion-academica/posdoc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;National postdoctoral fellowships (Mexico) via SECIHTI: &lt;a href=&#34;https://secihti.mx/convocatoria/becas-nacionales/convocatoria-2025-1-de-estancias-posdoctorales-por-mexico/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://secihti.mx/convocatoria/becas-nacionales/convocatoria-2025-1-de-estancias-posdoctorales-por-mexico/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;note-for-prospective-graduate-students&#34;&gt;Note for Prospective Graduate Students&lt;/h2&gt;
+&lt;p&gt;Students interested in pursuing an MS or PhD should apply directly through the appropriate graduate program and follow all application requirements and deadlines.&lt;/p&gt;
+&lt;p&gt;I am happy to discuss potential research alignment once you have been admitted or while you are preparing your application.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

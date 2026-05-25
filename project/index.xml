@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Maria L. Daza</title>
-    <link>http://localhost:58528/project/</link>
-      <atom:link href="http://localhost:58528/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:60840/project/</link>
+      <atom:link href="http://localhost:60840/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:58528/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:60840/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://localhost:58528/project/</link>
+      <link>http://localhost:60840/project/</link>
     </image>
     
     <item>
       <title>Improving Modular Patient Admission Capacity Through Scalable Solutions (IMPACTS)</title>
-      <link>http://localhost:58528/project/2025-impact/</link>
+      <link>http://localhost:60840/project/2025-impact/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58528/project/2025-impact/</guid>
+      <guid>http://localhost:60840/project/2025-impact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wastewater Disease Surveillance</title>
-      <link>http://localhost:58528/project/2025-wbe/</link>
+      <link>http://localhost:60840/project/2025-wbe/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58528/project/2025-wbe/</guid>
+      <guid>http://localhost:60840/project/2025-wbe/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:58528/project/external-project/</link>
+      <link>http://localhost:60840/project/external-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:58528/project/external-project/</guid>
+      <guid>http://localhost:60840/project/external-project/</guid>
       <description></description>
     </item>
     
